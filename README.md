@@ -1,4 +1,3 @@
-![MasterHead](https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif)
 <h1 align="center">Felipe Correia</h1>
 <h3 align="center">Computer Science student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
