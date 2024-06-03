@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium"/>
-- 🔭 I’m currently studying at <b>Unifal - MG</b>
+- 🔭 I’m currently studying at <b>Unifal - MG</b> (3rd Semester)
 
 - 🌱 I’m currently learning **Java, Haskell, Prolog** 
 
