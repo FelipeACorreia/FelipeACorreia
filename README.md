@@ -2,13 +2,13 @@
 <h3 align="center">A Computer Science student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium"/>
-- 🔭 I’m currently studying at <b>Unifal - MG</b> (3rd Semester)
+- 🔭 I’m currently studying at <b>Unifal - MG</b> (5th Semester)
 
 - 🌱 I’m currently learning **Java, Haskell, Prolog** 
 
-- 📫 How to reach me **lipecorreia.10@gmail.com**
+- 📫 How to reach me **contato.felipeacorreia@gmail.com**
 
-- 💼 Currently working on a PHP-Laravel ACL project 
+- 💼 Currently learning ReactJs! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
