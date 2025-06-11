@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Felipe Correia</h1>
-<h3 align="center">A Computer Science student</h3>
+<img align="right" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/b6333cf9-c4ff-4c6e-8c26-ddbe6921acef"/>
+<br>
 
-<img align="right" alt="Coding" width="400" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium"/>
 - 🔭 I’m currently studying at <b>Unifal - MG</b> (5th Semester)
 
 - 🌱 What I am Studying: **Java, Spring Boot and MongoDB** 
