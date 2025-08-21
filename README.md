@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/b6333cf9-c4ff-4c6e-8c26-ddbe6921acef"/>
 <br>
 
-- 🔭 I’m currently studying at <b>Unifal - MG</b> (5th Semester)
+- 🔭 I’m currently studying at <b>Unifal - MG</b> (6th Semester)
 
 - 🌱 What I am Studying: **Java, Spring Boot and MongoDB** 
 
