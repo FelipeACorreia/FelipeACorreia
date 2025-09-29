@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently studying at <b>Unifal - MG</b> (6th Semester)
 
-- 🌱 What I am Studying: **Java, Spring Boot and MongoDB** 
+- 🌱 What I am Studying: **C#,.NET, Java, Spring Boot and MongoDB** 
 
 - 📫 How to reach me **contato.felipeacorreia@gmail.com**
 
-- 💼 Currently working on the <a href="https://github.com/fluveny">Fluveny Project</a>
+- 💼 Currently working on the <a href="https://github.com/fluveny">Fluveny Project(Open-Source)</a>
 
 
 <h3 align="left">Connect with me:</h3>
